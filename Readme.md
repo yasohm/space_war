@@ -1,4 +1,4 @@
-# Space Shooter
+# Space War
 
 A classic arcade-style space war game built with C and SDL2. Battle waves of enemy ships, dodge incoming attacks.
 
