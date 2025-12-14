@@ -64,14 +64,9 @@ gcc space_war.c -o space_war -lSDL2 -lm
 
 ## screenshots
 
-The game features:
-- A blue player ship at the bottom of the screen
-- Red enemy fighters with wings and engines
-- Gray destroyer ships (larger, more durable)
-- Green bullet projectiles
-- White scrolling stars for depth
-- Green health bar in the top-left corner
-- Red game over screen when defeated
+![Screenshot 1](Screenshot/img1.jpeg)
+![Screenshot 2](Screenshot/img2.jpeg)
+![Screenshot 3](Screenshot/img3.jpeg)
 
 ## Game Over
 
