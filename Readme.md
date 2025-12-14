@@ -64,9 +64,13 @@ gcc space_war.c -o space_war -lSDL2 -lm
 
 ## screenshots
 
-![Screenshot 1](Screenshot/img1.jpeg)
-![Screenshot 2](Screenshot/img2.jpeg)
-![Screenshot 3](Screenshot/img3.jpeg)
+<div align="center">
+  
+<img src="Screenshot/img2.jpeg" alt="Main Interface" width="800"/>
+<img src="Screenshot/img3.jpeg" alt="Features Panel" width="800"/>
+<img src="Screenshot/img1.jpeg" alt="Settings View" width="800"/>
+  
+</div>
 
 ## Game Over
 
