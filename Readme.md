@@ -10,7 +10,7 @@ Control a blue spaceship and defend against waves of enemy fighters and destroye
 - **Arrow Keys**: Move your ship (Up/Down/Left/Right)
 - **Spacebar**: Fire bullets
 - **R**: Restart game (when game over)
-
+- **enter**: do nothing 
 ### Features
 - Two enemy types:
   - **Red Fighters**: Fast, agile enemies
